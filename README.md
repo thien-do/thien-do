@@ -26,5 +26,6 @@
 
 - [github.com/thien-do](https://github.com/thien-do)
 - [twitter.com/hi_thiendo](https://twitter.com/hi_thiendo)
+- [linkedin.com/in/thiendc](https://www.linkedin.com/in/thiendc/)
 - [gumroad.com/thiendo](https://gumroad.com/thiendo)
 - [ko-fi.com/thien](https://ko-fi.com/thien)

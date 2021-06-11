@@ -18,7 +18,7 @@
 
 #### Side Works
 
-- Web Engineer at [TablePlus](https://tableplus.com)
+- Guest Web Engineer at [TablePlus](https://tableplus.com)
 - Guest Web Engineer at [Axie Infinity](https://www.linkedin.com/company/axieinfinity/)
 
 #### Social Networks:

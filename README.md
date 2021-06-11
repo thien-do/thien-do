@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-#### Highlight Projects
+#### Personal Projects
 
 - [moaijs.com](https://moaijs.com) - React Component Library, Where Buttons Look like Buttons 🗿
-- [diagramplus.com](https://diagramplus.com) - Modern Database Design Tool, collab with 
 - [vim.md](https://vim.md) - Beautiful Markdown Editor with Vim Keybindings
-- [anduin.design](https://anduin.design) - React & Scala.js UI Framework
 - [typed.tw](https://typed.tw) - Brings TypeScript typing to TailwindCSS
 - [otf.show](https://otf.show) - Showcase of OpenType Features
 
@@ -14,11 +12,13 @@
 - Web Team Manager at [Be Group](https://www.linkedin.com/company/begroupjsc/)
 - Web Tech Lead at [Employment Hero](https://www.linkedin.com/company/employment-hero/)
 - Web Engineer at [Anduin](https://www.anduintransact.com)
+  - Project: [anduin.design](https://anduin.design) - React & Scala.js UI Framework
 - Web Team Manager at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
 
 #### Collab Works
 
 - Guest Web Engineer at [TablePlus](https://tableplus.com)
+  - Project: [diagramplus.com](https://diagramplus.com) - Modern Database Design Tool, collab with 
 - Guest Web Engineer at [Axie Infinity](https://www.linkedin.com/company/axieinfinity/)
 - Guest Designer at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
 

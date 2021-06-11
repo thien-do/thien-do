@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**thien-do/thien-do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Highlight Projects
 
-Here are some ideas to get you started:
+- [vim.md](https://vim.md) - Beautiful Markdown Editor with Vim Keybindings
+- [moaijs.com](https://moaijs.com) - React Component Library, Where Buttons Look like Buttons 🗿
+- [diagramplus.com](https://diagramplus.com) - Modern Database Design Tool, collab with TablePlus
+- [typed.tw](https://typed.tw) - Brings TypeScript typing to TailwindCSS
+- [otf.show](https://otf.show) - Showcase of OpenType Features
+- [anduin.design](https://anduin.design) - React & Scala.js UI Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Main Works
+
+- Web Team Lead at [Be Group](https://www.linkedin.com/company/begroupjsc/)
+- Web Engineering Lead at [Employment Hero](https://www.linkedin.com/company/employment-hero/)
+- Web Software Engineer at [Anduin](https://www.anduintransact.com)
+- Web Team Lead at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
+
+#### Side Works
+
+- Product Designer at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
+- Web & Linux Engineer at [TablePlus](https://tableplus.com)
+- Guest Web Engineer at [Axie Infinity](https://www.linkedin.com/company/axieinfinity/)
+
+#### Social Networks:
+
+- [github.com/thien-do](https://github.com/thien-do)
+- [twitter.com/hi_thiendo](https://twitter.com/hi_thiendo)
+- [gumroad.com/thiendo](https://gumroad.com/thiendo)
+- [ko-fi.com/thien](https://ko-fi.com/thien)

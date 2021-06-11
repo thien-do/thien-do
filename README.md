@@ -2,12 +2,12 @@
 
 #### Highlight Projects
 
-- [vim.md](https://vim.md) - Beautiful Markdown Editor with Vim Keybindings
 - [moaijs.com](https://moaijs.com) - React Component Library, Where Buttons Look like Buttons 🗿
 - [diagramplus.com](https://diagramplus.com) - Modern Database Design Tool, collab with TablePlus
+- [vim.md](https://vim.md) - Beautiful Markdown Editor with Vim Keybindings
+- [anduin.design](https://anduin.design) - React & Scala.js UI Framework
 - [typed.tw](https://typed.tw) - Brings TypeScript typing to TailwindCSS
 - [otf.show](https://otf.show) - Showcase of OpenType Features
-- [anduin.design](https://anduin.design) - React & Scala.js UI Framework
 
 #### Main Works
 

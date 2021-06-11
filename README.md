@@ -20,6 +20,7 @@
 
 - Guest Web Engineer at [TablePlus](https://tableplus.com)
 - Guest Web Engineer at [Axie Infinity](https://www.linkedin.com/company/axieinfinity/)
+- Guest Designer at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
 
 #### Social Networks:
 

@@ -3,7 +3,7 @@
 #### Highlight Projects
 
 - [moaijs.com](https://moaijs.com) - React Component Library, Where Buttons Look like Buttons 🗿
-- [diagramplus.com](https://diagramplus.com) - Modern Database Design Tool, collab with TablePlus
+- [diagramplus.com](https://diagramplus.com) - Modern Database Design Tool, collab with 
 - [vim.md](https://vim.md) - Beautiful Markdown Editor with Vim Keybindings
 - [anduin.design](https://anduin.design) - React & Scala.js UI Framework
 - [typed.tw](https://typed.tw) - Brings TypeScript typing to TailwindCSS
@@ -16,7 +16,7 @@
 - Web Engineer at [Anduin](https://www.anduintransact.com)
 - Web Team Manager at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
 
-#### Side Works
+#### Collab Works
 
 - Guest Web Engineer at [TablePlus](https://tableplus.com)
 - Guest Web Engineer at [Axie Infinity](https://www.linkedin.com/company/axieinfinity/)

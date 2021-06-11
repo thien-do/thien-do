@@ -12,8 +12,8 @@
 #### Main Works
 
 - Web Team Lead at [Be Group](https://www.linkedin.com/company/begroupjsc/)
-- Web Engineering Lead at [Employment Hero](https://www.linkedin.com/company/employment-hero/)
-- Web Software Engineer at [Anduin](https://www.anduintransact.com)
+- Web Tech Lead at [Employment Hero](https://www.linkedin.com/company/employment-hero/)
+- Web Engineer at [Anduin](https://www.anduintransact.com)
 - Web Team Lead at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
 
 #### Side Works

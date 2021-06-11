@@ -19,7 +19,7 @@
 #### Side Works
 
 - Product Designer at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
-- Web & Linux Engineer at [TablePlus](https://tableplus.com)
+- Web Engineer at [TablePlus](https://tableplus.com)
 - Guest Web Engineer at [Axie Infinity](https://www.linkedin.com/company/axieinfinity/)
 
 #### Social Networks:

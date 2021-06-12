@@ -27,8 +27,8 @@
 
 #### Social Networks:
 
-- [github.com/thienddd](https://github.com/thienddd)
-- [twitter.com/thienddd](https://twitter.com/thienddd)
-- [linkedin.com/in/thienddd](https://www.linkedin.com/in/thienddd/)
-- [gumroad.com/thienddd](https://gumroad.com/thienddd)
-- [ko-fi.com/thienddd](https://ko-fi.com/thienddd)
+- [github.com/thien-do](https://github.com/thien-do) (you're here!)
+- [twitter.com/_thiendo](https://twitter.com/_thiendo)
+- [linkedin.com/in/thiendc](https://www.linkedin.com/in/thiendc/)
+- [gumroad.com/thiendo](https://gumroad.com/thiendo)
+- [ko-fi.com/thiendo](https://ko-fi.com/thiendo)

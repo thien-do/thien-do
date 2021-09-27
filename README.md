@@ -10,7 +10,7 @@
 
 #### Works
 
-- Front-end Engineering at [Ascenda](https://www.ascendaloyalty.com/)
+- Front-end Engineering Manager at [Ascenda](https://www.ascendaloyalty.com/)
 - Front-end Engineering Manager at [Be Group](https://be.com.vn/)
 - Front-end Engineering Lead at [Employment Hero](https://employmenthero.com/)
 - Software Engineer at [Anduin](https://www.anduintransact.com)

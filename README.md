@@ -2,23 +2,25 @@
 
 #### Highlight Projects
 
+- [saumuwrite.com](https://samuwrite.com) - A Zen Writing Experience
 - [moaijs.com](https://moaijs.com) - React Component Library, Where Buttons Look like Buttons 🗿
 - [diagramplus.com](https://diagramplus.com) - Modern Database Design Tool, at TablePlus
 - [vim.md](https://vim.md) - Beautiful Markdown Editor with Vim Keybindings
 - [anduin.design](https://anduin.design) - React & Scala.js UI Framework, at Anduin
 
-#### Main Works
+#### Works
 
-- Web Team Manager at [Be Group](https://www.linkedin.com/company/begroupjsc/)
-- Web Tech Lead at [Employment Hero](https://www.linkedin.com/company/employment-hero/)
-- Web Engineer at [Anduin](https://www.anduintransact.com)
-- Web Team Manager at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
+- Front-end Engineering at [Ascenda](https://www.ascendaloyalty.com/)
+- Front-end Engineering Manager at [Be Group](https://be.com.vn/)
+- Front-end Engineering Lead at [Employment Hero](https://employmenthero.com/)
+- Software Engineer at [Anduin](https://www.anduintransact.com)
+- Front-end Engineering Manager at [Quoine/Liquid](https://www.liquid.com/)
 
 #### Collab Works
 
 - Guest Web Engineer at [TablePlus](https://tableplus.com)
-- Guest Web Engineer at [Axie Infinity](https://www.linkedin.com/company/axieinfinity/)
-- Guest Designer at [Quoine/Liquid](https://www.linkedin.com/company/quoine/)
+- Guest Web Engineer at [Axie Infinity](https://axieinfinity.com/)
+- Guest Designer at [Quoine/Liquid](https://www.liquid.com/)
 
 #### Personal Works
 

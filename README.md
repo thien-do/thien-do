@@ -2,6 +2,7 @@
 
 #### Highlight Projects
 
+- [memos.pub](https://memos.pub/) – Markdown Blogging Without Setup
 - [traitsniper.com](https://www.traitsniper.com/) – Fastest NFT Ranking
 - [samuwrite.com](https://samuwrite.com) - A Zen Writing Experience
 - [moaijs.com](https://moaijs.com) - React Component Library, Where Buttons Look like Buttons 🗿

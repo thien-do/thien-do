@@ -4,68 +4,68 @@
 
 [remote]: https://remote.com
 
-2022 – Now, Remote
+2022 – Now. Coming soon.
 
-Coming soon!
-
-### Founding Engineer @ [Trait Sniper][ts]
-
-2021
-
-
+### Founding Engineer @ [Trait Sniper][ts] 🇻🇳
 
 [ts]: https://traitsniper.com/
 
-### Founding Designer @ [Tomi Wallet][tomi]
+2021\. Designed and developed a super fast NFTs ranking web app using [Moai][moai] UI kit. Designed the initial architecture and developed major features including the table-based layout, advanced filtering and real-time event feed.
+
+[moai]: https://moaijs.com
+
+_Technologies: React, TypeScript, Next.js, Vercel, CSS Modules_
+
+### Founding Designer @ [Tomi Wallet][tomi] 🇸🇬
 
 [tomi]: https://tomiwallet.com/
 
-2021
+2021\. Designed the branding and mobile UI of a crypto-currency wallet. It uses a non-custodial, keyless security model.
 
+_Technologies: Figma_
 
-### Engineering Lead @ [Be Group][be] 
-
-2020 – 2021
+### Engineering Lead @ [Be Group][be] 🇻🇳
 
 [be]: https://be.com.vn/
 
-Led the web team, with [Hai Nguyen](https://github.com/ng-hai) and 
+2020 – 2021. Led Be's web team of 10 engineers. Standardized the web tech stack with [Hai Nguyen][hai] and [Hieu Nguyen][hieu]. This lets members move and share resources effectively between projects and teams, which ultimately increased the web team output by 50%.
 
-Joined as a Staff Engineer, stepped forward to bring together and lead more than 10 engineers across 4 projects as one top-performing team.
+[hai]: https://github.com/ng-hai
+[hieu]: https://github.com/hieunguyen135
 
-Enabled the same team to handle 150% more work by standardizing our tech stack and streamlined our processes, so members can be allocated flexibly and effectively.
+_Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 
-### Software Engineer @ [TablePlus][tp]
+### Software Engineer @ [TablePlus][tp] 🇨🇦
 
 [tp]: https://tableplus.com/
 
-2020
+2020\. Co-created [DiagramPlus][dp], a fast, modern, and privacy-first database design tool. Its custom-made architecture made it available as not only a web app but also a TablePlus plugin that can generate diagram from any database.
 
-Created Diagram Plus — diagramplus.com — a fast, modern, and privacy-first database design tool on the web. It can sync with your databases via the TablePlus app.
+[dp]: https://diagramplus.com
+[huy]: https://github.com/huyphams
 
-Developed the Linux version of TablePlus, worked on highly-requested features such as Cassandra support, dark mode, and multi-cursor editor.
+_Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
-### Software Engineer @ [Anduin][anduin]
+### Software Engineer @ [Anduin][anduin] 🇺🇸
 
 [anduin]: https://www.anduintransact.com/
 
-2018 – 2019
-
-Co-created the [Anduin Design][adesign] framework with [Tri Nguyen][tri] and [Phuoc Nguyen][phuoc]. The framework lets back-end engineers build great front end safe and easy. It fills the gap between design and engineering and directly accelerating our feedback loop and helped us validate ideas faster.
+2018 – 2019. Co-created the [Anduin Design][adesign] UI framework with [Tri Nguyen][tri] and [Phuoc Nguyen][phuoc]. Its minimal and friendly API made it possible for all engineers to take part in UI works. This accelerated our feedback loop and helped us validate and launch ideas much faster.
 
 [tri]: https://www.trilmn.com/
-
 [phuoc]: https://twitter.com/nghuuphuoc
-
 [adesign]: https://anduin.design
 
-### Founding Engineer / Engineering Lead @ [Liquid][liquid]
+_Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma_
+
+### Founding Engineering Lead @ [Liquid][liquid] 🇯🇵
 
 [liquid]: https://liquid.com/
 
-2015 – 2018
+2015 – 2018. Designed and built an advanced web trading platform with [Hoang Pham][hoang] and [Chinh Nguyen][chinh]. Formed and led a UI engineering team of 15 engineers across 3 countries to develop many web apps on the platform, as well as the platform itself.
 
+[hoang]: https://github.com/unrealhoang
+[chinh]: https://www.linkedin.com/in/chinhnq/
 
-Joined as the 4th employee, built and led a team of 15 web engineers across 3 countries. Designed the architecture of the company’s flagship service: an advanced web trading platform, serving more than 10 apps and services today.
+_Technologies: React, Angular, JavaScript, CSS Modules, Webpack, Sketch_
 
-Led the development of the platform through great milestones: one of the first to be regulated in Japan, ranked in top 10 traded platforms worldwide (2017–2018), hosted the biggest cryptocurrency fund raising in Asia ($100M, October 2017).

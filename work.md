@@ -20,9 +20,9 @@ _Technologies: React, TypeScript, Next.js, Vercel, CSS Modules_
 
 [tomi]: https://tomiwallet.com/
 
-2021\. Designed the branding and mobile UI of a crypto-currency wallet. It uses a non-custodial, keyless security model.
+2021\. Designed the UI and UX of a mobile crypto-currency wallet. It is non-custodial with a keyless security model and basic functionalities like transfer, swap and invest. Also designed its branding and marketing material.
 
-_Technologies: Figma_
+_Technologies: Figma, Remix Icons, Mobbin_
 
 ### Engineering Lead @ [Be Group][be] 🇻🇳
 

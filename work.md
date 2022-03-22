@@ -14,7 +14,7 @@
 
 [moai]: https://moaijs.com
 
-_Technologies: React, TypeScript, Next.js, Vercel, CSS Modules_
+_Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
 ### Founding Designer @ [Tomi Wallet][tomi] 🇸🇬
 

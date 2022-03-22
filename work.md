@@ -10,7 +10,7 @@
 
 [ts]: https://traitsniper.com/
 
-2021\. Designed and developed a super fast NFTs ranking web app using [Moai][moai] UI kit. Designed the initial architecture and developed major features including the table-based layout, advanced filtering and real-time event feed.
+2021\. Designed and developed a super-fast NFTs ranking web app using [Moai][moai] UI kit. Designed the initial architecture and developed major features including the table-based layout, advanced filtering, and real-time event feed.
 
 [moai]: https://moaijs.com
 
@@ -39,7 +39,7 @@ _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modu
 
 [tp]: https://tableplus.com/
 
-2020\. Co-created [DiagramPlus][dp], a fast, modern, and privacy-first database design tool. Its custom-made architecture made it available as not only a web app but also a TablePlus plugin that can generate diagram from any database.
+2020\. Co-created [DiagramPlus][dp], a fast, modern, and privacy-first database design tool. Its custom-made architecture made it available as not only a web app but also a TablePlus plugin that can generate a diagram from any database.
 
 [dp]: https://diagramplus.com
 [huy]: https://github.com/huyphams

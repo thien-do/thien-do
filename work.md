@@ -10,7 +10,7 @@
 
 [ts]: https://traitsniper.com/
 
-2021\. Designed and developed a super-fast NFTs ranking web app using [Moai][moai] UI kit. Designed the initial architecture and developed major features including the table-based layout, advanced filtering, and real-time event feed.
+2021\. Designed and developed a super-fast NFTs ranking web app using the [Moai][moai] UI kit. Designed the initial architecture and developed major features including the table-based layout, advanced filtering, and real-time event feed.
 
 [moai]: https://moaijs.com
 
@@ -50,7 +50,7 @@ _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
 [anduin]: https://www.anduintransact.com/
 
-2018 – 2019. Co-created the [Anduin Design][adesign] UI framework with [Tri Nguyen][tri] and [Phuoc Nguyen][phuoc]. Its minimal and friendly API made it possible for all engineers to take part in UI works. This accelerated our feedback loop and helped us validate and launch ideas much faster.
+2018 – 2019. Co-created the [Anduin Design][adesign] UI framework with [Tri Nguyen][tri] and [Phuoc Nguyen][phuoc]. Its minimal and friendly API made it possible for all engineers to take part in UI work. This accelerated our feedback loop and helped us validate and launch ideas much faster.
 
 [tri]: https://www.trilmn.com/
 [phuoc]: https://twitter.com/nghuuphuoc

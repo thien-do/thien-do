@@ -62,7 +62,7 @@ _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma_
 
 [liquid]: https://liquid.com/
 
-2015 – 2018. Designed and built an advanced web trading platform with [Hoang Pham][hoang] and [Chinh Nguyen][chinh]. Formed and led a UI engineering team of 15 engineers across 3 countries to develop many web apps on the platform, as well as the platform itself.
+2015 – 2018. Designed and built an advanced web trading platform with [Hoang Luu][hoang] and [Chinh Nguyen][chinh]. Formed and led a UI engineering team of 15 engineers across 3 countries to develop many web apps on the platform, as well as the platform itself.
 
 [hoang]: https://github.com/unrealhoang
 [chinh]: https://www.linkedin.com/in/chinhnq/

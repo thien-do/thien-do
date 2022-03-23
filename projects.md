@@ -42,13 +42,13 @@ OTF.show is an interactive showcase of [OpenType features]. These features are w
 
 ## Past Projects
 
-Projects that I have created or had significant contribution but no longer play an active role.
+Projects that I have created or had significant contributions but no longer play an active role.
 
 ### Trait Sniper
 
 → [traitsniper.com][trait]
 
-Trait Sniper is a super-fast NFTs ranking platform. I was a founding engineer, designed the initial architecture and developed major features including the table-based layout, advanced filtering, and real-time event feed.
+Trait Sniper is a super-fast NFTs ranking platform. I was a founding engineer, designed the initial architecture, and developed major features including the table-based layout, advanced filtering, and real-time event feed.
 
 [trait]: https://traitsniper.com
 
@@ -56,7 +56,7 @@ Trait Sniper is a super-fast NFTs ranking platform. I was a founding engineer, d
 
 → [tomiwallet.com][tomi]
 
-Tomi Wallet is a non-custodial, key-less mobile wallet. I was the founding designer, designed the UI/UX of the mobile app, with features like transfer, swap and invest. I was also responsible for the overall branding and marketing material.
+Tomi Wallet is a non-custodial, key-less crypto-currency mobile wallet. I designed the UI/UX of the mobile app, with features like transfer, swap, and invest, as well as overall branding and marketing material.
 
 [tomi]: https://tomiwallet.com
 
@@ -64,7 +64,7 @@ Tomi Wallet is a non-custodial, key-less mobile wallet. I was the founding desig
 
 → [diagramplus.com][diagram]
 
-DiagramPlus is database design tool that I co-created when working at TablePlus. It is fast, modern and privacy-first. Its custom-made architecture made it available as not only a web app but also a TablePlus plugin that can generate a diagram from any database.
+DiagramPlus is a database design tool that I co-created when working at TablePlus. It is fast, modern, and privacy-first. Its custom-made architecture made it available as not only a web app but also a TablePlus plugin that can generate a diagram from any database.
 
 [diagram]: https://diagramplus.com
 
@@ -72,7 +72,7 @@ DiagramPlus is database design tool that I co-created when working at TablePlus.
 
 → [anduin.design][design]
 
-Anduin Design is a UI framework that I co-created with [Tri Nguyen][tri] and [Phuoc Nguyen][phuoc]. It is built on Scala.js, React and Tailwind CSS. Its API is designed to be minimal and friendly, to enable engineers from all backgrounds to take part in UI works.
+Anduin Design is a UI framework that I co-created with [Tri Nguyen][tri] and [Phuoc Nguyen][phuoc]. It is built on Scala.js, React, and Tailwind CSS. Its API is designed to be minimal and friendly, to enable engineers from all backgrounds to take part in UI works.
 
 [design]: https://anduin.design
 [tri]: https://www.trilmn.com/

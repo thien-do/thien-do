@@ -13,7 +13,7 @@ Memos.pub is the only blogging platform without signup or setup. It instantly ma
 
 → [moaijs.com][moai] — [GitHub][moai-git]
 
-Moai is a React component library where buttons look like buttons. Its design adheres to the [Form follows function][fff] principle: buttons look raised because users can click on them, while text boxes look sunken because users can fill in them.
+Moai is a React component library where buttons look like buttons. Its design adheres to the [Form follows function][fff] principle: buttons look raised because users can click on them, text boxes look sunken because users can fill in them.
 
 [moai]: https://moaijs.com
 [moai-git]: https://github.com/thien-do/moai
@@ -23,7 +23,7 @@ Moai is a React component library where buttons look like buttons. Its design ad
 
 → [samuwrite.com][samu] — [GitHub][samu-git]
 
-Samuwrite is an online writing app with [Zen][zen] design. It lets you focus on your writing, and nothing else. It has [real save], Vim mode, in-editor code highlight, and a keyboard-first UI. It doesn't have any tracker or ad.
+Samuwrite is an online writing app with [Zen][zen] design. It lets you focus on your writing and nothing else. It has [real save], Vim mode, in-editor code highlight, and a keyboard-first UI. It doesn't have any tracker or ad.
 
 [samu]: https://samuwrite.com
 [samu-git]: https://github.com/thien-do/samuwrite

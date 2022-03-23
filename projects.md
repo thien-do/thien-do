@@ -34,7 +34,7 @@ Samuwrite is an online writing app with [Zen][zen] design. It lets you focus on 
 
 → [otf.show][otf] — [GitHub][otf-git]
 
-OTF.show is an interactive showcase of [OpenType features]. 
+OTF.show is an interactive showcase of [OpenType features]. These features are what make a lowercase “L” different from an uppercase “I”, connect adjacent “f” and “t”, or ensure all digits have the same width.
 
 [otf]: https://otf.show
 [otf-git]: https://github.com/thien-do/otf.show

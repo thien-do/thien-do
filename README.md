@@ -1,13 +1,11 @@
-# Hi 👋
+# Hi 👋 I'm Thien
 
-My name is Thien Do.
+On my career as a Software Engineer, see [Work →](/work.md)
 
-Most of the time, I wear a Software Engineer hat,
+On projects I work on, both at work and outside, see [Projects →](/projects.md)
 
-[Work →](/work.md)
+To reach me, mail to [hi@thien.do](mailto:hi@thien.do) or see me on [GitHub] and [Twitter].
 
-[Projects →](/projects.md)
+[GitHub]: https://github.com/thien-do
+[Twitter]: https://twitter.com/_thiendo
 
-- Email: [hi@thien.do](mailto:hi@thien.do)
-- GitHub: [/thien-do](https://github.com/thien-do)
-- Twitter: [@_thiendo](https://twitter.com/_thiendo)

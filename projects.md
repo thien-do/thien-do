@@ -1,7 +1,5 @@
 # Projects
 
-test 2
-
 ### Memos.pub
 
 → [memos.pub][memos] — [GitHub][memos-git]

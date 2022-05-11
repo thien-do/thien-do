@@ -1,7 +1,5 @@
 # Work
 
-test 9
-
 ### Software Engineer @ [Remote][remote]
 
 [remote]: https://remote.com

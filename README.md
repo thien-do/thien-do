@@ -1,6 +1,6 @@
 # Hi 👋 I'm Thien
 
-test
+<!--more-->
 
 On my career as a Software Engineer, see [Work →](/work.md)
 
@@ -10,4 +10,3 @@ To reach me, mail to [hi@thien.do](mailto:hi@thien.do) or see me on [GitHub] and
 
 [GitHub]: https://github.com/thien-do
 [Twitter]: https://twitter.com/_thiendo
-

@@ -1,30 +1,32 @@
 # Work
 
-### Software Engineer @ [Remote][remote]
+### Senior Software Engineer @ [Remote](https://remote.com)
 
-[remote]: https://remote.com
+2022 to now, 🌏
 
-2022 – Now. Coming soon.
+- UI
+- Compliance
+- Take part in major company-wide initiatives:
+TypeScript migration, RFC council, engineering support.
 
-### Founding Engineer @ [Trait Sniper][ts] 🇻🇳
+### Founding Engineer @ [Trait Sniper](https://traitsniper.com)
 
-[ts]: https://traitsniper.com/
+2021, 🇻🇳
 
-2021\. Designed and developed a super-fast NFTs ranking web app using the [Moai][moai] UI kit. Designed the initial architecture and developed major features including the table-based layout, advanced filtering, and real-time event feed.
+- Designed the UI of a leading NFT trading platform from scratch
+- Developed 
+- Designed and developed the web interface of a leading NFT trading platform
+- Developed major features: table-based layout, advanced 
+- Designed the initial architecture
 
-[moai]: https://moaijs.com
+- Developed major features: table-based layout, advanced filtering,
+and real-time event feed.
 
 _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
-### Founding Designer @ [Tomi Wallet][tomi] 🇸🇬
+### Engineering Lead @ [Be Group](https://be.com.vn/en/)
 
-[tomi]: https://tomiwallet.com/
-
-2021\. Designed the UI and UX of a mobile crypto-currency wallet. It is non-custodial with a keyless security model and basic functionalities like transfer, swap and invest. Also designed its branding and marketing material.
-
-_Technologies: Figma, Remix Icons, Mobbin_
-
-### Engineering Lead @ [Be Group][be] 🇻🇳
+2020 – 2021, 🇻🇳
 
 [be]: https://be.com.vn/
 
@@ -35,14 +37,17 @@ _Technologies: Figma, Remix Icons, Mobbin_
 
 _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 
-### Software Engineer @ [TablePlus][tp] 🇨🇦
+### Software Engineer @ [TablePlus](https://tableplus.com)
 
-[tp]: https://tableplus.com/
+2020, 🇨🇦, Developer Tooling
 
-2020\. Co-created [DiagramPlus][dp], a fast, modern, and privacy-first database design tool. Its custom-made architecture made it available as not only a web app but also a TablePlus plugin that can generate a diagram from any database.
+- Co-created [DiagramPlus](https://diagramplus.com),
+a modern, privacy-first database design web app.
+It works with TablePlus to import and export diagrams from existing databases.
 
-[dp]: https://diagramplus.com
-[huy]: https://github.com/huyphams
+- Developed highly-requested features on
+[TablePlus Linux](https://tableplus.com/linux) such as
+a multi-caret editor, Cassandra integration, and dark mode.
 
 _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
@@ -58,11 +63,17 @@ _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
 _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma_
 
-### Founding Engineering Lead @ [Liquid][liquid] 🇯🇵
+### Founding Engineering Lead @ [Liquid](https://liquid.com)
 
-[liquid]: https://liquid.com/
+2015 – 2018, 🇯🇵,
+Liquid is acquired by [FTX](https://ftx.com) by SBF in 2022
 
-2015 – 2018. Designed and built an advanced web trading platform with [Hoang Luu][hoang] and [Chinh Nguyen][chinh]. Formed and led a UI engineering team of 15 engineers across 3 countries to develop many web apps on the platform, as well as the platform itself.
+- Relocated to Tokyo, Japan in 2017 to lead 
+
+Liquid , acquired 
+Liquid by Quoine, acquired by FTX by SBF
+
+ Designed and built an advanced web trading platform with [Hoang Luu][hoang] and [Chinh Nguyen][chinh]. Formed and led a UI engineering team of 15 engineers across 3 countries to develop many web apps on the platform, as well as the platform itself.
 
 [hoang]: https://github.com/unrealhoang
 [chinh]: https://www.linkedin.com/in/chinhnq/

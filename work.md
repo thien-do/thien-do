@@ -1,21 +1,17 @@
 # Work
 
-{{ toc }}
+## Senior Software Engineer @ [Remote](https://remote.com) 🌏
 
-{{toc}}
+2022 to now, FinTech & Human Resources
 
-{{TOC}}
+- Develop
+[compliance features](https://remote.com/platform/use-case/legal-leaders)
+that help companies to hire internationally with confidence.
 
-{{ TOC }}
+- Participate in major company-wide initiatives such as TypeScript evaluation,
+RFC council, and engineering on-call.
 
-## Senior Software Engineer @ [Remote](https://remote.com)
-
-2022 to now, 🌏, FinTech & Human Resources
-
-- UI
-- Compliance
-- Take part in major company-wide initiatives:
-TypeScript migration, RFC council, engineering support.
+_Technologies: React, React Query, Next.js_
 
 ## Founding Engineer @ [Trait Sniper](https://traitsniper.com)
 
@@ -45,12 +41,12 @@ _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
 _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 
-## Software Engineer @ [TablePlus](https://tableplus.com)
+## Software Engineer @ [TablePlus](https://tableplus.com) 🇨🇦
 
-2020, 🇨🇦, Developer Tools
+2020\. Developer Tools.
 
 - Co-created [DiagramPlus](https://diagramplus.com),
-a modern, privacy-first database design web app.
+a modern & privacy-first database design web app.
 It works with TablePlus to import and export diagrams from existing databases.
 
 - Developed highly-requested features on
@@ -59,9 +55,9 @@ a multi-caret editor, Cassandra integration, and dark mode.
 
 _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
-### Software Engineer @ [Anduin](https://www.anduintransact.com/)
+## Software Engineer @ [Anduin](https://www.anduintransact.com/) 🇺🇸
 
-2018 – 2019, 🇺🇸, FinTech & Legal Tech
+2018 – 2019. FinTech, Legal Tech.
 
 Only 10% of Anduin engineers are full-time front-end engineers.
 
@@ -76,11 +72,9 @@ This directly accelerated our product development speed.
 
 _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma_
 
-## Founding Engineering Lead @ [Liquid](https://liquid.com)
+## Founding Engineering Lead @ [Liquid](https://liquid.com) 🇯🇵
 
-2015 – 2018, 🇯🇵, FinTech & Crypto Currency
-
-Liquid is acquired by [FTX](https://ftx.com) by SBF in 2022.
+2015 – 2018, FinTech & Crypto Currency
 
 - Relocated to Tokyo, Japan to lead 
 
@@ -88,6 +82,8 @@ Liquid is acquired by [FTX](https://ftx.com) by SBF in 2022.
 
 [hoang]: https://github.com/unrealhoang
 [chinh]: https://www.linkedin.com/in/chinhnq/
+
+Liquid is acquired by [FTX](https://ftx.com) by SBF in 2022.
 
 _Technologies: React, Angular, JavaScript, CSS Modules, Webpack, Sketch_
 

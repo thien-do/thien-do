@@ -2,14 +2,16 @@
 
 ## Senior Software Engineer @ [Remote](https://remote.com) 🌏
 
-2022 to now, FinTech & Human Resources
+2022 to now / FinTech, Human Resources
 
 - Develop
 [compliance features](https://remote.com/platform/use-case/legal-leaders)
 that help companies to hire internationally with confidence.
 
-- Participate in major company-wide initiatives such as TypeScript evaluation,
-RFC council, and engineering on-call.
+- Participate in rotational duties such as RFC council and on-call engineers.
+
+- Collaborate in cross-team projects such as TypeScript evaluation and
+testing guidelines.
 
 _Technologies: React, React Query, Next.js_
 
@@ -43,7 +45,7 @@ _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modu
 
 ## Software Engineer @ [TablePlus](https://tableplus.com) 🇨🇦
 
-2020\. Developer Tools.
+2020 / Developer Tools
 
 - Co-created [DiagramPlus](https://diagramplus.com),
 a modern & privacy-first database design web app.
@@ -57,7 +59,7 @@ _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
 ## Software Engineer @ [Anduin](https://www.anduintransact.com/) 🇺🇸
 
-2018 – 2019. FinTech, Legal Tech.
+2018 – 2019 / FinTech, Legal Tech
 
 Only 10% of Anduin engineers are full-time front-end engineers.
 
@@ -74,7 +76,10 @@ _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma_
 
 ## Founding Engineering Lead @ [Liquid](https://liquid.com) 🇯🇵
 
-2015 – 2018, FinTech & Crypto Currency
+2015 – 2018 / FinTech, Crypto Currency
+
+- Designed and developed the web interface of an advanced crypto-currency
+trading platform
 
 - Relocated to Tokyo, Japan to lead 
 

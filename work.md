@@ -1,17 +1,25 @@
 # Work
 
-### Senior Software Engineer @ [Remote](https://remote.com)
+{{ toc }}
 
-2022 to now, 🌏
+{{toc}}
+
+{{TOC}}
+
+{{ TOC }}
+
+## Senior Software Engineer @ [Remote](https://remote.com)
+
+2022 to now, 🌏, FinTech & Human Resources
 
 - UI
 - Compliance
 - Take part in major company-wide initiatives:
 TypeScript migration, RFC council, engineering support.
 
-### Founding Engineer @ [Trait Sniper](https://traitsniper.com)
+## Founding Engineer @ [Trait Sniper](https://traitsniper.com)
 
-2021, 🇻🇳
+2021, 🇻🇳, NFT & Web3
 
 - Designed the UI of a leading NFT trading platform from scratch
 - Developed 
@@ -24,9 +32,9 @@ and real-time event feed.
 
 _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
-### Engineering Lead @ [Be Group](https://be.com.vn/en/)
+## Engineering Lead @ [Be Group](https://be.com.vn/en/)
 
-2020 – 2021, 🇻🇳
+2020 – 2021, 🇻🇳, FinTech & Mobility
 
 [be]: https://be.com.vn/
 
@@ -37,9 +45,9 @@ _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
 _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 
-### Software Engineer @ [TablePlus](https://tableplus.com)
+## Software Engineer @ [TablePlus](https://tableplus.com)
 
-2020, 🇨🇦, Developer Tooling
+2020, 🇨🇦, Developer Tools
 
 - Co-created [DiagramPlus](https://diagramplus.com),
 a modern, privacy-first database design web app.
@@ -51,27 +59,30 @@ a multi-caret editor, Cassandra integration, and dark mode.
 
 _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
-### Software Engineer @ [Anduin][anduin] 🇺🇸
+### Software Engineer @ [Anduin](https://www.anduintransact.com/)
 
-[anduin]: https://www.anduintransact.com/
+2018 – 2019, 🇺🇸, FinTech & Legal Tech
 
-2018 – 2019. Co-created the [Anduin Design][adesign] UI framework with [Tri Nguyen][tri] and [Phuoc Nguyen][phuoc]. Its minimal and friendly API made it possible for all engineers to take part in UI work. This accelerated our feedback loop and helped us validate and launch ideas much faster.
+Only 10% of Anduin engineers are full-time front-end engineers.
 
-[tri]: https://www.trilmn.com/
-[phuoc]: https://twitter.com/nghuuphuoc
-[adesign]: https://anduin.design
+- Co-created [Anduin Design](https://anduin.design),
+a web UI framework, with [Tri Nguyen](https://www.trilmn.com/)
+and [Phuoc Nguyen](https://twitter.com/nghuuphuoc).
+Its minimal API, covered in extensive docs,
+empowers back-end engineers to take part in front-end works.
+This directly accelerated our product development speed.
+
+- Owned and contributed to core front-end areas such as
 
 _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma_
 
-### Founding Engineering Lead @ [Liquid](https://liquid.com)
+## Founding Engineering Lead @ [Liquid](https://liquid.com)
 
-2015 – 2018, 🇯🇵,
-Liquid is acquired by [FTX](https://ftx.com) by SBF in 2022
+2015 – 2018, 🇯🇵, FinTech & Crypto Currency
 
-- Relocated to Tokyo, Japan in 2017 to lead 
+Liquid is acquired by [FTX](https://ftx.com) by SBF in 2022.
 
-Liquid , acquired 
-Liquid by Quoine, acquired by FTX by SBF
+- Relocated to Tokyo, Japan to lead 
 
  Designed and built an advanced web trading platform with [Hoang Luu][hoang] and [Chinh Nguyen][chinh]. Formed and led a UI engineering team of 15 engineers across 3 countries to develop many web apps on the platform, as well as the platform itself.
 

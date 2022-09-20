@@ -9,15 +9,12 @@ From early 2022 to present, in FinTech and Human Resources, with
 
 - Helping customers to hire internationally with confidence by engineering
 [compliance features](https://remote.com/platform/use-case/legal-leaders).
-
-- Protecting Remote and customers from fraudulent activities by engineering
+Protecting Remote and customers from fraudulent activities by engineering
 tools and automations to manage risks.
 
-- Improving UI engineering in general by
-collaborating in cross-team projects
-(e.g. TypeScript evaluation and testing guidelines)
-and participating in company-wide duties
-(e.g. RFC council, support engineers).
+- Improving UI engineering in general through
+cross-team projects (e.g. TypeScript evaluation and testing guidelines)
+and company-wide duties (e.g. RFC council, support engineers).
 
 _Technologies: React, React Query, Next.js, React Testing Library_
 
@@ -26,9 +23,9 @@ _Technologies: React, React Query, Next.js, React Testing Library_
 From late 2021 to early 2022, in NFT and Web3, with 
 [@0xKiraa](https://twitter.com/0xKiraa) (Founder).
 
-- Designed and developed the UI of an NFT ranking web app
-from scratch. It has leading features such as table-based layout,
-advanced filtering, and real-time event feed.
+- Helped launch a highly-profitable NFT ranking web app from scratch
+by designing and developing the entire UI, including major features such as
+table-based layout, advanced filtering, and real-time event feed.
 
 _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
@@ -38,27 +35,9 @@ From late 2020 to late 2021, in FinTech and Mobility, with
 [Jay/Hien](https://www.linkedin.com/in/thehien/) (CTO) and
 [Hai Nguyen](https://github.com/ng-hai) (Front-end Engineer).
 
-- Increased by 3 times by building and leading a web team of 12 engineers 
-by building and leading a web team of 12 engineers.
-
-- Enabled all engineers to share resources and move between projects
-by standardising the web tech stack.
-
-
-
-- Built and led a web team of 12 engineers across all 3 main businesses:
 [Be Super App](https://be.com.vn/en/consumer/),
 [Be Enterprise](https://be.com.vn/en/corporates/),
 and [CAKE digital bank](https://cake.vn/en/home/).
-
-- Planned, pitched, and led a company-wide standardisation of the web
-tech stack.
-The unified stack enabled all web engineers to move and share resources
-between projects.
-This increased our output by more than 50%, measured by amount of tasks
-done per engineer per month.
-
-2020 – 2021. Led Be's web team of 10 engineers. Standardized the web tech stack with [Hai Nguyen][hai] and [Hieu Nguyen][hieu]. This lets members move and share resources effectively between projects and teams, which ultimately increased the web team output by 50%.
 
 _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 
@@ -70,13 +49,13 @@ From early to late 2020, in Developer Tooling.
 [DiagramPlus](https://diagramplus.com),
 a modern and privacy-first database design web app.
 
-- Enabled TablePlus to import and export diagrams from existing databases
-by packaging DiagramPlus as a
+- Enabled TablePlus Mac and Windows to import and export diagrams from
+existing databases by packaging DiagramPlus as a
 [TablePlus Plugin](https://github.com/TablePlus/diagram-plugin).
 
-- Improved [TablePlus Linux](https://tableplus.com/linux) by shipping
-highly-requested features, such as multi-caret support, Cassandra integration,
-and dark mode.
+- Enhanced [TablePlus Linux](https://tableplus.com/linux) by shipping
+highly-requested features, from multi-caret support, Cassandra integration,
+to dark mode.
 
 _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
@@ -86,7 +65,7 @@ From early 2018 to late 2019, in FinTech and Legal Tech, with
 [Tri Nguyen](https://www.trilmn.com/) (Design Lead) and
 [Phuoc Nguyen](https://twitter.com/nghuuphuoc) (Front-end Lead).
 
-- Improved product feedback loop by co-creating
+- Shorten product feedback loop by co-creating
 [Anduin Design](https://anduin.design), a web framework that helps
 _back-end_ engineers put together consistent user interfaces fast and easy.
 

@@ -8,33 +8,41 @@
 [compliance features](https://remote.com/platform/use-case/legal-leaders)
 that help companies to hire internationally with confidence.
 
-- Participate in rotational duties such as RFC council and on-call engineers.
+- Participate in rotational duties such as RFC council and support engineers.
 
-- Collaborate in cross-team projects such as TypeScript evaluation and
+- Collaborate in cross-team projects including TypeScript evaluation and
 testing guidelines.
 
 _Technologies: React, React Query, Next.js_
 
-## Founding Engineer @ [Trait Sniper](https://traitsniper.com)
+## Founding Engineer @ [Trait Sniper](https://traitsniper.com) 🇻🇳
 
-2021, 🇻🇳, NFT & Web3
+2021 / NFT, Web3 /
+With [Kiraa](https://twitter.com/0xKiraa) (Founder)
 
-- Designed the UI of a leading NFT trading platform from scratch
-- Developed 
-- Designed and developed the web interface of a leading NFT trading platform
-- Developed major features: table-based layout, advanced 
-- Designed the initial architecture
+- Designed the user interface for an NFT trading platform from scratch.
 
-- Developed major features: table-based layout, advanced filtering,
-and real-time event feed.
+- Designed the architecture of the front-end codebase.
+- Designed and developed major features such as the table-based layout,
+advanced filtering, and real-time event feed.
 
 _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
-## Engineering Lead @ [Be Group](https://be.com.vn/en/)
+## Engineering Lead @ [Be Group](https://be.com.vn/en/) 🇻🇳
 
-2020 – 2021, 🇻🇳, FinTech & Mobility
+2020 – 2021 / FinTech, Mobility
 
-[be]: https://be.com.vn/
+- Built and led a web team of 12 engineers across all 3 main businesses:
+[Be Super App](https://be.com.vn/en/consumer/),
+[Be Enterprise](https://be.com.vn/en/corporates/),
+and [CAKE digital bank](https://cake.vn/en/home/).
+
+- Planned, pitched, and led a company-wide standardisation of the web
+tech stack.
+The unified stack enabled all web engineers to move and share resources
+between projects.
+This increased our output by more than 50%, measured by amount of tasks
+done per engineer per month.
 
 2020 – 2021. Led Be's web team of 10 engineers. Standardized the web tech stack with [Hai Nguyen][hai] and [Hieu Nguyen][hieu]. This lets members move and share resources effectively between projects and teams, which ultimately increased the web team output by 50%.
 
@@ -48,7 +56,7 @@ _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modu
 2020 / Developer Tools
 
 - Co-created [DiagramPlus](https://diagramplus.com),
-a modern & privacy-first database design web app.
+a modern and privacy-first database design web app.
 It works with TablePlus to import and export diagrams from existing databases.
 
 - Developed highly-requested features on
@@ -59,20 +67,23 @@ _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
 ## Software Engineer @ [Anduin](https://www.anduintransact.com/) 🇺🇸
 
-2018 – 2019 / FinTech, Legal Tech
+2018 – 2019 / FinTech, Legal Tech / With
+[Tri Nguyen](https://www.trilmn.com/) (Design Lead) and
+[Phuoc Nguyen](https://twitter.com/nghuuphuoc) (Front-end Lead)
 
-Only 10% of Anduin engineers are full-time front-end engineers.
+- Improved product feedback loop by co-created
+[Anduin Design](https://anduin.design), a web framework that helps
+_back-end_ engineers to put together quality user interfaces fast and easy.
 
-- Co-created [Anduin Design](https://anduin.design),
-a web UI framework, with [Tri Nguyen](https://www.trilmn.com/)
-and [Phuoc Nguyen](https://twitter.com/nghuuphuoc).
-Its minimal API, covered in extensive docs,
-empowers back-end engineers to take part in front-end works.
-This directly accelerated our product development speed.
 
-- Owned and contributed to core front-end areas such as
+- Co-created and led the adoption of [Anduin Design](https://anduin.design),
+a web UI framework with minimal API and detailed docs.
+It helps back-end engineers to build UI with confidence and speed.
 
-_Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma_
+- Owned core front-end areas, such as forms, navigation, and layout.
+Helped and reviewed front-end works in all other areas.
+
+_Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma._
 
 ## Founding Engineering Lead @ [Liquid](https://liquid.com) 🇯🇵
 

@@ -8,12 +8,12 @@ From early 2022 to present, in FinTech and Human Resources, with
 [António Capelo](https://capelo.me/) (Engineering Lead)
 and many, many others.
 
-- Helping customers to hire internationally with confidence by engineering
+- **Helping companies to hire internationally with confidence** by engineering
 [compliance features](https://remote.com/platform/use-case/legal-leaders).
-Protecting Remote and customers from fraudulent activities
+Protecting Remote and our customers from fraudulent activities
 by engineering tools and automations to manage risks.
 
-- Improving company-wide UI engineering by volunteering in
+- **Improving company-wide UI engineering** by volunteering in
 cross-team projects (e.g. TypeScript evaluation, testing guidelines)
 and rotational duties (e.g. RFC council, support engineers).
 
@@ -24,9 +24,9 @@ _Technologies: React, React Query, Next.js, React Testing Library_
 From late 2021 to early 2022, in NFT and Web3, with 
 [@0xKiraa](https://twitter.com/0xKiraa) (Founder) and others.
 
-- Helped launch a highly-profitable NFT ranking web app
+- **Helped launch a highly-profitable NFT ranking web app**
 by designing and developing the entire UI from scratch.
-Our first version included industry leading features, like table-based layout,
+Our first version includes industry leading features, like table-based layout,
 advanced filtering and real-time event feed.
 
 _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
@@ -38,16 +38,16 @@ From late 2020 to late 2021, in FinTech and Mobility, with
 [Hai Nguyen](https://github.com/ng-hai) (Front-end Engineer)
 and many others.
 
-- **Eliminated product development bottlenecks due to limited web engineering
-resources** by building and leading a team of 12 web engineers.
-The team spans across all 3 main businesses: 
+- **Eliminated web bottlenecks in product development**
+by building and leading a team of 12 web engineers across all 3
+main businesses: 
 [Be Super App](https://be.com.vn/en/consumer/),
 [Be Enterprise](https://be.com.vn/en/corporates/)
 and [CAKE digital bank](https://cake.vn/en/home/).
 
-- **Enabled the company to react to market changes quickly**
-by standardising the web tech stack, which helps web engineers share resources
-and move between projects.
+- **Enabled efficient and flexible resource allocation**
+by standardising the company's web tech stack, allowing web engineers
+to share workload and move between projects easily.
 
 _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 

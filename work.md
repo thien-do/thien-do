@@ -5,7 +5,7 @@
 From early 2022 to present, in FinTech and Human Resources, with
 [Nick Chernyshev](https://www.linkedin.com/in/nick-chernyshev/)
 (Engineering Lead),
-[António Capelo](https://capelo.me/) (Engineering Lead)
+[António Capelo](https://capelo.me/) (Engineering Lead),
 and many, many others.
 
 - **Helping companies to hire internationally with confidence** by engineering
@@ -35,7 +35,7 @@ _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
 From late 2020 to late 2021, in FinTech and Mobility, with
 [Hien Tu](https://www.linkedin.com/in/thehien/) (CTO),
-[Hai Nguyen](https://github.com/ng-hai) (Front-end Engineer)
+[Hai Nguyen](https://github.com/ng-hai) (Front-end Engineer),
 and many others.
 
 - **Eliminated web bottlenecks in product development**
@@ -47,7 +47,7 @@ and [CAKE digital bank](https://cake.vn/en/home/).
 
 - **Enabled efficient and flexible resource allocation**
 by standardising the company's web tech stack, allowing web engineers
-to share workload and move between projects easily.
+to share the workload and move between projects easily.
 
 _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 
@@ -76,10 +76,10 @@ From early 2018 to late 2019, in FinTech and Legal Tech, with
 
 - **Shorten product feedback loop** by co-creating
 [Anduin Design](https://anduin.design), a web framework that helps
-_back-end_ engineers put together consistent user interfaces fast and easy.
+_back-end_ engineers put together consistent user interfaces fast and easily.
 
 - **Improved UI/UX across all products** by owning core front-end areas,
-such as forms and layout, and maintaining high quality bar in all teams via
+such as forms and layout, and maintaining high quality in all teams via
 training and code reviews.
 
 _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma._
@@ -88,10 +88,10 @@ _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma._
 
 From 2015 to 2018, in FinTech and Cryptocurrency, with
 [Chinh Nguyen](https://www.linkedin.com/in/chinhnq/) (SVP of Engineering),
-[Hoang Luu](https://github.com/unrealhoang) (Software Engineer)
+[Hoang Luu](https://github.com/unrealhoang) (Software Engineer),
 and many others.
 
-- **Launched and continously developed the company's flagship product,**
+- **Launched and continuously developed the company's flagship product,**
 an advanced cryptocurrency trading platform, by building and leading a team
 of 12 front-end engineers across Japan and Vietnam.
 

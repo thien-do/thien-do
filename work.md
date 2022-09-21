@@ -38,13 +38,16 @@ From late 2020 to late 2021, in FinTech and Mobility, with
 [Hai Nguyen](https://github.com/ng-hai) (Front-end Engineer)
 and many others.
 
-- bottleneck
-- web for app
-- move
-
+- **Eliminated product development bottlenecks due to limited web engineering
+resources** by building and leading a team of 12 web engineers.
+The team spans across all 3 main businesses: 
 [Be Super App](https://be.com.vn/en/consumer/),
-[Be Enterprise](https://be.com.vn/en/corporates/),
+[Be Enterprise](https://be.com.vn/en/corporates/)
 and [CAKE digital bank](https://cake.vn/en/home/).
+
+- **Enabled the company to react to market changes quickly**
+by standardising the web tech stack, which helps web engineers share resources
+and move between projects.
 
 _Technologies: React, TypeScript, Next.js, Vercel, Figma, Tailwind CSS, CSS Modules_
 
@@ -88,9 +91,9 @@ From 2015 to 2018, in FinTech and Cryptocurrency, with
 [Hoang Luu](https://github.com/unrealhoang) (Software Engineer)
 and many others.
 
-- **Built and led a team of 12 front-end engineers** across Japan and Vietnam
-to launched and continously developed the company flagship product, an advanced
-cryptocurrency trading platform consists of multiple web apps.
+- **Launched and continously developed the company's flagship product,**
+an advanced cryptocurrency trading platform, by building and leading a team
+of 12 front-end engineers across Japan and Vietnam.
 
 - **Contributed to the company's biggest milestones**,
 from

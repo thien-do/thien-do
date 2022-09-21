@@ -13,9 +13,9 @@ and many, many others.
 Protecting Remote and customers from fraudulent activities
 by engineering tools and automations to manage risks.
 
-- Improving UI engineering in general by volunteering in
+- Improving company-wide UI engineering by volunteering in
 cross-team projects (e.g. TypeScript evaluation, testing guidelines)
-and company-wide duties (e.g. RFC council, support engineers).
+and rotational duties (e.g. RFC council, support engineers).
 
 _Technologies: React, React Query, Next.js, React Testing Library_
 
@@ -26,8 +26,8 @@ From late 2021 to early 2022, in NFT and Web3, with
 
 - Helped launch a highly-profitable NFT ranking web app
 by designing and developing the entire UI from scratch.
-Our first version included industry leading features, from table-based layout
-to advanced filtering and real-time event feed.
+Our first version included industry leading features, like table-based layout,
+advanced filtering and real-time event feed.
 
 _Technologies: Web3, MetaMask, React, TypeScript, Next.js_
 
@@ -60,9 +60,8 @@ a modern and privacy-first database design web app.
 [TablePlus Plugin](https://github.com/TablePlus/diagram-plugin), which lets
 users import and export diagrams from existing databases.
 
-- **Enhanced [TablePlus Linux](https://tableplus.com/linux)** by shipping
-highly-requested features, from multi-caret support and Cassandra integration
-to dark mode.
+- **Enhanced [TablePlus Linux](https://tableplus.com/linux)** with
+highly-requested features, from multi-caret support and Cassandra integration to dark mode.
 
 _Technologies: React, TypeScript, Vercel, CSS Modules, SVG, Canvas, GTK, Vala_
 
@@ -77,7 +76,8 @@ From early 2018 to late 2019, in FinTech and Legal Tech, with
 _back-end_ engineers put together consistent user interfaces fast and easy.
 
 - **Improved UI/UX across all products** by owning core front-end areas,
-such as forms and layout, and reviewing front-end works in all teams.
+such as forms and layout, and maintaining high quality bar in all teams via
+training and code reviews.
 
 _Technologies: React, Scala.js, JavaScript, Tailwind CSS, sbt, Sketch, Figma._
 

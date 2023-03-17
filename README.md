@@ -2,9 +2,9 @@
 
 <!--more-->
 
-On my career as a Software Engineer, see [Work →](/work.md)
+On my career as a Software Engineer, see [Work →](./work)
 
-On projects I work on, both at work and outside, see [Projects →](/projects.md)
+On projects I work on, both at work and outside, see [Projects →](./projects)
 
 To reach me, mail to [hi@thien.do](mailto:hi@thien.do) or see me on [GitHub] and [Twitter].
 
